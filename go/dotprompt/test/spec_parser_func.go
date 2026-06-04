@@ -21,7 +21,7 @@ import (
 	"testing"
 
 	"github.com/goccy/go-yaml"
-	dp "github.com/google/dotprompt/go/dotprompt"
+	dp "github.com/Suhaibinator/dotprompt/go/dotprompt"
 	"github.com/invopop/jsonschema"
 )
 

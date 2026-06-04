@@ -29,7 +29,7 @@ go_library(
         "types.go",
         "util.go",
     ],
-    importpath = "github.com/google/dotprompt/go/dotprompt",
+    importpath = "github.com/Suhaibinator/dotprompt/go/dotprompt",
     visibility = ["//visibility:public"],
     deps = [
         "@com_github_goccy_go_yaml//:go-yaml",

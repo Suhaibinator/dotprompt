@@ -1,4 +1,4 @@
-module github.com/google/dotprompt/go
+module github.com/Suhaibinator/dotprompt/go
 
 go 1.25.0
 

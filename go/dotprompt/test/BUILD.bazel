@@ -22,7 +22,7 @@ go_library(
         "spec_parser_func.go",
         "types.go",
     ],
-    importpath = "github.com/google/dotprompt/go/dotprompt/test",
+    importpath = "github.com/Suhaibinator/dotprompt/go/dotprompt/test",
     visibility = ["//visibility:public"],
     deps = [
         "//go/dotprompt",

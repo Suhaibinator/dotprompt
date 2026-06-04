@@ -24,7 +24,7 @@ passes all shared [spec tests](../spec/) for cross-language compatibility.
 ## Installation
 
 ```bash
-go get github.com/google/dotprompt/go/dotprompt
+go get github.com/Suhaibinator/dotprompt/go/dotprompt
 ```
 
 ## Usage
@@ -34,7 +34,7 @@ package main
 
 import (
     "fmt"
-    "github.com/google/dotprompt/go/dotprompt"
+    "github.com/Suhaibinator/dotprompt/go/dotprompt"
 )
 
 func main() {
@@ -72,7 +72,7 @@ go test -v ./...
 
 ## Published Package
 
-- **pkg.go.dev**: [github.com/google/dotprompt/go/dotprompt](https://pkg.go.dev/github.com/google/dotprompt/go/dotprompt)
+- **pkg.go.dev**: [github.com/Suhaibinator/dotprompt/go/dotprompt](https://pkg.go.dev/github.com/Suhaibinator/dotprompt/go/dotprompt)
 
 ## License
 
